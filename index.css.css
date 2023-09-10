@@ -35,8 +35,8 @@ html, body{
     margin-top: 20px;
     border-radius: 174px;
     width: 300px;
-    border: 5px solid rgb(134, 215, 215);
-	box-shadow: 0 0 20px rgb(134, 215, 215);
+    border: 5px solid rgb(12, 135, 135);
+    box-shadow: 0 0 100px rgb(1, 86, 90);
     }
     .content{
     max-width: 900px;
@@ -121,13 +121,12 @@ circle{
 	width: 100px;
 	height: 100px;
 	background-color: transparent;
-    border-radius: 10px;
-	border: 3px solid rgb(9, 38, 46);
+        border-radius: 5px;
 	margin: 10px;
 	overflow: hidden;
 	position: relative;
 	transition: transform 0.3s;
-	box-shadow: 1px 1px 8px 5px rgb(9, 38, 46);
+	box-shadow: 1px 1px 6px 6px rgb(1, 52, 55);
 	display: flex;
 	align-items: center;
 	justify-content: center;
