@@ -101,17 +101,17 @@ circle{
 	align-items: center;
 	height: 100vh;
 	margin: 0;
-    padding-bottom: 300%;
+        padding-bottom: 300%;
 }
 
 .circle-container {
 	display: flex; 
 	justify-content: center; 
-    align-items: center; 
+        align-items: center; 
 	padding-top: 5px;
 	content: 2px;
 	margin-top: 5px;
-    margin-bottom: 30px;
+        margin-bottom: 30px;
 
 	
 	
