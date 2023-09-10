@@ -22,7 +22,7 @@ html, body{
     height:35%;
     }
     h1{
-    font-size: 95px;
+    font-size: 85px;
     color: #021823; 
     -webkit-text-stroke-color: rgb(134, 215, 215);
     -webkit-text-stroke-width: 2px;
@@ -42,7 +42,7 @@ html, body{
     }
 
     .content h2{
-        font-size: 50px;
+        font-size: 35px;
         font-family: myFirstFont;
     }
 
