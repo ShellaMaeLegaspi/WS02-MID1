@@ -22,18 +22,21 @@ html, body{
     height:35%;
     }
     h1{
-    font-size: 95px;
+    font-size: 85px;
     color: #021823; 
     -webkit-text-stroke-color: rgb(134, 215, 215);
     -webkit-text-stroke-width: 2px;
   
     }
+    h2{
+    font-size: 35px;
+    }
     header img{
     margin-top: 20px;
     border-radius: 174px;
     width: 300px;
-    border: 5px solid rgb(134, 215, 215);
-	box-shadow: 0 0 20px rgb(134, 215, 215);
+    border: 5px solid rgb(12, 135, 135);
+    box-shadow: 0 0 100px rgb(1, 86, 90);
     }
     .content{
     max-width: 900px;
@@ -42,7 +45,7 @@ html, body{
     }
 
     .content h2{
-        font-size: 50px;
+        font-size: 35px;
         font-family: myFirstFont;
     }
 
@@ -98,17 +101,17 @@ circle{
 	align-items: center;
 	height: 100vh;
 	margin: 0;
-    padding-bottom: 300%;
+        padding-bottom: 300%;
 }
 
 .circle-container {
 	display: flex; 
 	justify-content: center; 
-    align-items: center; 
+        align-items: center; 
 	padding-top: 5px;
 	content: 2px;
 	margin-top: 5px;
-    margin-bottom: 30px;
+        margin-bottom: 30px;
 
 	
 	
@@ -118,13 +121,12 @@ circle{
 	width: 100px;
 	height: 100px;
 	background-color: transparent;
-    border-radius: 10px;
-	border: 3px solid rgb(9, 38, 46);
+        border-radius: 5px;
 	margin: 10px;
 	overflow: hidden;
 	position: relative;
 	transition: transform 0.3s;
-	box-shadow: 1px 1px 8px 5px rgb(9, 38, 46);
+	box-shadow: 1px 1px 6px 6px rgb(1, 52, 55);
 	display: flex;
 	align-items: center;
 	justify-content: center;
