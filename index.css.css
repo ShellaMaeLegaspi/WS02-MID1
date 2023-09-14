@@ -13,16 +13,18 @@
 html, body{
     font-family:  myFirstFont;
     margin: 0;
-    background-color:#cbe8e8;
+    background-color: #c9f4f4;
+  
     }
     header{
+    background:linear-gradient(180deg,rgb(9, 38, 46),#0c5858);
     background-color: rgb(9, 38, 46);
     padding: 40px;
     text-align: center;
     height:35%;
     }
     h1{
-    font-size: 85px;
+    font-size: 75px;
     color: #021823; 
     -webkit-text-stroke-color: rgb(134, 215, 215);
     -webkit-text-stroke-width: 2px;
@@ -45,18 +47,20 @@ html, body{
     }
 
     .content h2{
-        font-size: 35px;
+        font-size: 30px;
         font-family: myFirstFont;
     }
 
     .content p{
         font-size: 30px;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        padding-left: 25px;
     }
 
     .content li{
         font-size: 30px;
-        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        padding-bottom: 10px;
     }
 
     img.big-image{
@@ -64,6 +68,7 @@ html, body{
     max-width: 100%;
     border-radius: 10px;
     border:3px solid rgb(6, 45, 53);
+    margin-top: 40px;
     }
    
     p.cap3on{
@@ -84,7 +89,7 @@ html, body{
     footer{
     margin-top: 20px;
     padding: 40px 20px;
-    background: rgb(134, 215, 215)
+    background: rgb(153, 243, 243)
     }
     footer ul{
     text-align: center;
@@ -92,7 +97,7 @@ html, body{
     footer ul li{
     display: inline-block;
     margin: 0 5px;
-    background: rgb(134, 215, 215);
+    background: rgb(133, 238, 238);
 }
 
 circle{
