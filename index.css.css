@@ -95,7 +95,7 @@ html, body{
     footer{
     margin-top: 20px;
     padding: 40px 20px;
-    background: rgb(153, 243, 243);
+    background:linear-gradient(180deg,rgb(13, 53, 64),#117676);
     }
     footer ul{
     text-align: center;
