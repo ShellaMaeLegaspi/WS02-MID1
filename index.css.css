@@ -35,7 +35,7 @@ html, body{
         -webkit-text-stroke-width: 2px;
     }
     h2{
-    font-size: 35px;
+    font-size: 38px;
     }
     header img{
     margin-top: 20px;
@@ -56,13 +56,13 @@ html, body{
     }
 
     .content p{
-        font-size: 32px;
+        font-size: 35px;
         font-family: Georgia, 'Times New Roman', Times, serif;
         padding-left: 25px;
     }
 
     .content li{
-        font-size: 32px;
+        font-size: 35px;
         font-family:Georgia, 'Times New Roman', Times, serif;
         padding-bottom: 10px;
     }
