@@ -103,14 +103,12 @@ html, body{
     footer ul li {
     display: inline-block;
     margin: 0 5px;
- 
-
-}
-footer a{
-display: inline-block;
-margin: 0 5px;
--webkit-text-stroke-color: rgb(142, 223, 246);
--webkit-text-stroke-width: 0.5px;
+    }
+    footer a{
+    display: inline-block;
+    margin: 0 5px;
+   -webkit-text-stroke-color: rgb(142, 223, 246);
+   -webkit-text-stroke-width: 0.5px;
 
 }
 
